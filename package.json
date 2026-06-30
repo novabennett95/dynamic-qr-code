@@ -1,0 +1,26 @@
+{
+  "name": "novabennett95-dynamic-qr-code",
+  "version": "1.0.0",
+  "description": "Dynamic QR Code creates dynamic QR codes with scan tracking, analytics, and the ability to update the destination anytime",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": [
+    "dynamic-qr-code",
+    "qr-code",
+    "qr",
+    "analytics",
+    "tracking",
+    "marketing",
+    "javascript",
+    "nodejs"
+  ],
+  "author": "DashQR",
+  "license": "ISC",
+  "homepage": "https://dashqr.app",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/novabennett95/dynamic-qr-code.git"
+  }
+}
